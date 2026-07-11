@@ -1,4 +1,4 @@
-const URI = 'https://venta-garage-api.vercel.app'
+const URI = 'https://venta-garage-api.vercel.app/'
 
 const get = async(endpoint,token) => {
     const objPayload = {
